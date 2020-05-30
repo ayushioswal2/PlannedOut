@@ -1,3 +1,5 @@
+TO BEGIN USING THE SITE THE FIRST PAGE IS THE LOG IN PAGE
+
 Site used for fonts: https://icons8.com/license
 Research: https://www.purdueglobal.edu/blog/online-learning/4-challenges-facing-online-learners/
 THIS IS NOT THE COMPLETED VERSION, updates will be posted at later dates.
