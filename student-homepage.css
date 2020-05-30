@@ -1,0 +1,178 @@
+body {
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+li.nav {
+    float: right;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    display: inline;
+    float: right;
+    margin: 10px;
+}
+
+ul.navtabs {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    background-color: #3e8c3e;
+    overflow: hidden;
+    padding: 12px;
+    height: 3em;
+}
+
+.header-title {
+    margin:0;
+    float: left;
+    background-color: #3e8c3e;
+    color: white;
+    padding-top: 25px;
+    padding-left: 25px;
+    height: 1.95em;
+}
+
+.main-body {
+    display: inline;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.left h1 {
+    color:#3e8c3e;
+    margin-left: 1.75em;
+    margin-top: 40px;
+    font-size: 40px;
+    
+}
+
+.right {
+    float: right;
+    width: 50%;
+}
+
+.right h1 {
+    color:#3e8c3e;
+    float: right;
+    margin-left: 1.75em;
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 25px;
+}
+.right #myProgress {
+    float: right;
+    width: 75%;
+    height: 2em;
+    background-color:#ecffec;
+    border-radius: 10px;
+    display: row;
+}
+
+#myBar {
+    float: right;
+    width:10%;
+    height: 2em;
+    background-color: #3e8c3e;
+    border-radius: 10%;
+    padding-bottom: 0px;
+}
+.progress {
+    width: 100%;
+    float: right;
+    padding-right: 17px;
+}
+
+table tr td #progress-text {
+    float: right;
+    font-style: italic;
+    font-weight: 300;
+    color: #3e8c3e;
+    padding-top: 2px;;
+    margin-top: 2px;
+}
+
+#dates-title {
+    float: left;
+    text-decoration: underline;
+}
+
+.upcoming-dates {
+    float: right;
+    margin-right: 40px;
+    width: 90%;
+}
+
+.column {
+    width: 85%;
+    text-align: left;
+    background-color: #3e8c3e;
+    color: white;
+}
+
+.dates {
+    text-align: right;
+    padding-right: 1em;
+    width: 5%;
+    background-color: #ecffec;
+    color: #3e8c3e;
+}
+
+.upcoming-dates td {
+    padding: 10px;
+}
+
+#timetable {
+    width: 80%;
+    float: center;
+    margin-left: 40px;
+    padding: 12px;
+    border-spacing: .3em;
+}
+
+.time {
+    padding: 12px;
+    border-radius: 10px;
+    text-align: right;
+    padding-right: 30px;
+    margin-right: 12px;
+    border-top: 3px solid #d1f0d1;
+    border-bottom: 3px solid #d1f0d1;
+}
+
+.task {
+    padding: 12px;
+    border-radius: 10px;
+    color: white;
+    background-color: #3e8c3e;
+    height: 3em;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.task:hover {
+    background-color: #2f6b2f;
+}
+
+/*
+table, tr, td, th {
+    border: 1px solid black;
+}
+*/
+
+
+

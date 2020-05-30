@@ -1,0 +1,97 @@
+body {
+    background-color: #ecffec;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+/*
+.sign-up-page-tabs {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: #3e8c3e;
+}
+
+.sign-up-page-tabs li {
+    display: inline;
+    float: right;
+    padding: 20px;
+}
+
+.sign-up-page-tabs li:hover {
+    background-color: #3e8c3e;
+    color:white;
+    border-radius: 10px;
+}
+nav {
+    display: inline;
+} */
+
+
+.sign-up-box {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: fit-content;
+    vertical-align: middle;
+    text-align: center;
+    flex: auto;
+    background-color: white;
+    box-shadow: 0 0px 30px 0 grey;
+    border-radius: 10px;
+}
+
+.sign-up-box h1 {
+    color: #3e8c3e;
+}
+
+.sign-up-box .sign-up-information {
+    vertical-align: middle;
+    flex: auto;
+}
+
+.sign-up-information input[type=text]{
+    border: none;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    height: 2em;
+    width: 50%;
+}
+
+.sign-up-information input[type=password]{
+    border: none;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    height: 2em;
+    width: 50%;
+}
+
+.sign-up-information label{
+    font-weight: 300;
+    font-style: italic;
+    color: #3e8c3e;
+}
+
+.sign-up-information input[type=submit]{
+    border: none;
+    background-color: #3e8c3e;
+    color: white;
+    border-radius: 10px;
+    height: 2em;
+    width: 35%;
+    font-size: 1.5em;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+p a {
+    color: #3e8c3e;
+    font-style: italic;
+    font-weight: 300;
+    font-size: .75em;
+}
